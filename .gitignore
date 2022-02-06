@@ -1,0 +1,5 @@
+# vscode settings
+.vscode
+
+# compilation output
+dist-newstyle
